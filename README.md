@@ -1,6 +1,6 @@
 # JavaScript cal
 
-The goal of this assignment is to implement a JavaScript command line application `cal.js` to mimic unix `cal`.
+The goal of this assignment is to implement a JavaScript command line application `cal.js` to mimic Unix `cal`.
 
 ## Example
 To print the current month:
