@@ -1,0 +1,26 @@
+{
+  "name": "cal",
+  "version": "1.0.0",
+  "description": "The goal of this assignment is to implement a JavaScript command line application `cal.js` to mimic Unix `cal`.",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NSS-Cohort-9/cal.git"
+  },
+  "author": "Scott Humphries <scott@sscotth.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NSS-Cohort-9/cal/issues"
+  },
+  "homepage": "https://github.com/NSS-Cohort-9/cal#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}
